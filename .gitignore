@@ -2,3 +2,4 @@ Dataset/*
 */*/.ipynb_checkpoints/*
 Pix2Pix_Unet/*/output/*/*.h5
 Pix2Pix_Unet/*/*/*/*.hdf5
+*/*/output*/*
